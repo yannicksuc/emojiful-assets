@@ -1,0 +1,67 @@
+- name: smiley
+  strings:
+    - ":)"
+    - "(:"
+    - ":smiley:"
+  location: "assets/faces/smiley.png"
+- name: thinking
+  strings:
+    - ":thinking:"
+  location: "assets/faces/thinking.png"
+- name: angry
+  strings:
+    - ":angry:"
+    - ">:("
+    - "):<"
+  location: "assets/faces/angry.png"
+- name: rage
+  strings:
+    - ":rage:"
+  location: "assets/faces/rage.png"
+- name: neutral
+  strings:
+    - ":neutral:"
+    - ":|"
+    - "|:"
+  location: "assets/faces/neutral.png"
+- name: joy
+  strings:
+    - ":joy:"
+  location: "assets/faces/joy.png"
+- name: stuck_out_tongue
+  strings:
+    - ":stuck_out_tongue:"
+    - ":P"
+  location: "assets/faces/stuck_out_tongue.png"
+- name: sob
+  strings:
+    - ":sob:"
+    - ";("
+    - ");"
+  location: "assets/faces/sob.png"
+- name: shocked
+  strings:
+    - ":shocked:"
+    - "O:"
+    - ":O"
+  location: "assets/faces/shocked.png"
+- name: dunno
+  strings:
+    - ":dunno:"
+  location: "assets/faces/dunno.png"
+- name: eyy
+  strings:
+    - ":eyy:"
+  location: "assets/faces/eyy.png"
+- name: smarts
+  strings:
+    - ":smarts:"
+  location: "assets/faces/smarts.png"
+- name: thraw
+  strings:
+    - ":thraw:"
+  location: "assets/faces/thraw.png"
+- name: swear
+  strings:
+    - ":swear:"
+  location: "assets/faces/1f92c.png"

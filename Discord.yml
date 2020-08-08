@@ -1,0 +1,24 @@
+- name: thonk
+  strings:
+    - ":thonk:"
+  location: "assets/discord/thonk.png"
+- name: thonkbutcool
+  strings:
+    - ":thonkbutcool:"
+  location: "assets/discord/thonkbutcool.png"
+- name: balance
+  strings:
+    - ":balance:"
+  location: "assets/discord/balance.png"
+- name: lul
+  strings:
+    - ":lul:"
+  location: "assets/discord/lul.png"
+- name: oof
+  strings:
+    - ":oof:"
+  location: "assets/discord/oof.png"
+- name: pogchamp
+  strings:
+    - ":pogchamp:"
+  location: "assets/discord/pogchamp.png"
