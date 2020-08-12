@@ -22,3 +22,7 @@
   strings:
     - ":pogchamp:"
   location: "assets/discord/pogchamp.png"
+- name: ohno
+  strings:
+    - ":ohno:"
+  location: "assets/discord/ohno.png"
