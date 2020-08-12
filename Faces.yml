@@ -42,7 +42,6 @@
 - name: shocked
   strings:
     - ":shocked:"
-    - "O:"
     - ":O"
   location: "assets/faces/shocked.png"
 - name: dunno
