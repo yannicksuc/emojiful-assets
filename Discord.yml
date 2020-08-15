@@ -26,3 +26,7 @@
   strings:
     - ":ohno:"
   location: "assets/discord/ohno.png"
+- name: zoomeyes
+  strings:
+    - ":zoomeyes:"
+  location: "assets/discord/zoomeyes.png"
