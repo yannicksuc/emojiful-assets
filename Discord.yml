@@ -46,3 +46,7 @@
   strings:
     - ":thraw:"
   location: "assets/discord/thraw.png"
+- name: catjam
+  strings:
+    - ":catjam:"
+  location: "assets/discord/catjam.gif"
