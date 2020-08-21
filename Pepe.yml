@@ -11,3 +11,7 @@
   strings:
     - ":monka_gun:"
   location: "assets/pepe/monka_gun.png"
+- name: peped
+  strings:
+    - ":peped:"
+  location: "assets/pepe/peped.gif"

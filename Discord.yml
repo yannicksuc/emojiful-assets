@@ -50,3 +50,7 @@
   strings:
     - ":catjam:"
   location: "assets/discord/catjam.gif"
+- name: bongocat
+  strings:
+    - ":bongocat:"
+  location: "assets/discord/bongocat.gif"
