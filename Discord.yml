@@ -54,3 +54,7 @@
   strings:
     - ":bongocat:"
   location: "assets/discord/bongocat.gif"
+- name: dab
+  strings:
+    - ":dab:"
+  location: "assets/discord/dab.png"
