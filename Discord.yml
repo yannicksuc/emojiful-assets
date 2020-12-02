@@ -58,3 +58,7 @@
   strings:
     - ":dab:"
   location: "assets/discord/dab.png"
+- name: pooga
+  strings:
+    - ":pooga:"
+  location: "assets/discord/pooga.png"
