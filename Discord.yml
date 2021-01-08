@@ -18,10 +18,6 @@
   strings:
     - ":oof:"
   location: "assets/discord/oof.png"
-- name: pogchamp
-  strings:
-    - ":pogchamp:"
-  location: "assets/discord/pogchamp.png"
 - name: ohno
   strings:
     - ":ohno:"
@@ -58,7 +54,3 @@
   strings:
     - ":dab:"
   location: "assets/discord/dab.png"
-- name: pooga
-  strings:
-    - ":pooga:"
-  location: "assets/discord/pooga.png"
