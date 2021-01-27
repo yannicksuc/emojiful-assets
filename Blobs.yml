@@ -194,3 +194,104 @@
    location: "assets/blobs/blobcoolcat.png"
    strings: 
    - ':blobcoolcat:'
+-  name: blob
+   location: "assets/blobs/blob.png"
+   strings:
+   - ':blob:'
+-  name: blobban
+   locaton: "assets/blobs/blobban.gif"
+   strings:
+   - ':blobban:'
+-  name: blobbanjo
+   location: "assets/blobs/blobbanjo.png"
+   strings:
+   - ":blobbanjo:"
+-  name: blobblank
+   location: "assets/blobs/blobblank.png"
+   strings:
+   - ":blobblank:"
+-  name: blobblush
+   location: "assets/blobs/blobblush.png"
+   strings: 
+   - ":blobblush:"
+-  name: blobcatangel
+   location: "assets/blobs/blobcatangel.png"
+   strings:
+   - ":blobcatangel:"
+-  name: blobcatdevil
+   location: "assets/blobs/blobcatdevil.png"
+   strings:
+   - ":blobcatdevil:"
+-  name: blobcathug
+   location: "assets/blobs/blobcathug.png"
+   strings:
+   - ":blobcathug:"
+-  name: blobcatreach
+   location: "assets/blobs/blobcatreach.png"
+   strings:
+   - ":blobcatreach:"
+-  name: blobderp
+   location: "assets/blobs/blobderp.png"
+   strings:
+   - ":blobderp:"
+-  name: blobderpy
+   location: "assets/blobs/blobderpy.gif"
+   strings:
+   - ":blobderpy:"
+-  name: blobdoubt
+   location: "assets/blobs/blobdoubt.png"
+   strings:
+   - ":blobdoubt:"
+-  name: bloblob
+   location: "assets/blobs/bloblob.png"
+   strings:
+   - ":bloblob:"
+-  name: blobmas 
+   location: "assets/blobs/blobmas.png"
+   strings:
+   - ":blobmas:"
+   - ":bolbmas:"
+-  name: blobno
+   location: "assets/blobs/blobno.png"
+   strings:
+   - ":blobno:"
+-  name: blobyes
+   location: "assets/blobs/blobyes.png"
+   strings:
+   - ":blobyes:"
+-  name: blobpeek
+   location: "assets/blobs/blobpeek.png"
+   strings:
+   - ":blobpeek:"
+-  name: blobpobcorn
+   location: "assets/blobs/blobpopcorn.png"
+   strings:
+   - ":blobpopcorn:"
+-  name: blobreach
+   location: "assets/blobs/blobreach.gif"
+   strings:
+   - ":blobreach:"
+-  name: blobstab
+   location: "assets/blobs/blobstab.png"
+   strings:
+   - ":blobstab:"
+-  name: blobstabby
+   location: "assets/blobs/blobstabby.gif"
+   strings:
+   - ":blobstabby:"
+-  name: blobthinking
+   location: "assets/blobs/blobthinking.png"
+   strings:
+   - ":blobthinking:"
+-  name: blobtilt
+   location: "assets/blobs/blobtilt.png"
+   strings:
+   - ":blobtilt:"
+-  name: blobways
+   location: "assets/blobs/blobways.png"
+   strings:
+   - ":blobways:"
+-  name: blobwhoa
+   location: "assets/blobs/blobwhoa.png"
+   strings:
+   - ":blobwhoa:"

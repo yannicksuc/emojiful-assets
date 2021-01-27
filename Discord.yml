@@ -54,3 +54,7 @@
   strings:
     - ":dab:"
   location: "assets/discord/dab.png"
+- name: picardfacepalm
+  strings:
+    - ":picardfacepalm:"
+  location: "assets/discord/picardfacepalm.png"
