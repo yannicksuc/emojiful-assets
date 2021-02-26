@@ -62,3 +62,7 @@
   strings:
     - ":squirr:"
   location: "assets/discord/squirr.png"
+- name: pog
+  strings:
+    - ":pog:"
+  location: "assets/discord/pog.png"
