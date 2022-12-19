@@ -70,3 +70,7 @@
   strings:
     - ":scyes:"
   location: "assets/discord/scyes.gif"
+- name: bigmlem
+  strings:
+    - ":mlembig:"
+  location: "assets/discord/bigmlem.png"
