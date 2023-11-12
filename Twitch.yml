@@ -1,0 +1,49 @@
+- name: lordfi1Cc
+  strings:
+    - "lordfi1Cc"
+  location: assets/twitch/lordfi1Cc.png
+
+- name: lordfi1HYPE
+  strings:
+    - "lordfi1HYPE"
+  location: assets/twitch/lordfi1HYPE.png
+
+- name: lordfi1Keur
+  strings:
+    - "lordfi1Keur"
+  location: assets/twitch/lordfi1Keur.png
+
+- name: lordfi1Lesaffaires
+  strings:
+    - "lordfi1Lesaffaires"
+  location: assets/twitch/lordfi1Lesaffaires.png
+
+- name: lordfi1Mdr
+  strings:
+    - "lordfi1Mdr"
+  location: assets/twitch/lordfi1Mdr.png
+
+- name: lordfi1Pan
+  strings:
+    - "lordfi1Pan"
+  location: assets/twitch/lordfi1Pan.gif
+
+- name: lordfi1Pet
+  strings:
+    - "lordfi1Pet"
+  location: assets/twitch/lordfi1Pet.gif
+
+- name: lordfi1Wheee
+  strings:
+    - "lordfi1Wheee"
+  location: assets/twitch/lordfi1Wheee.gif
+
+- name: lordfi1Gg
+  strings:
+    - "lordfi1Gg"
+  location: assets/twitch/lordfi1Gg.png
+
+- name: lordfi1Omg
+  strings:
+    - "lordfi1Omg"
+  location: assets/twitch/lordfi1Omg.png
