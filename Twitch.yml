@@ -47,3 +47,23 @@
   strings:
     - "lordfi1Omg"
   location: assets/twitch/lordfi1Omg.png
+
+- name: lordfi1Agrou
+  strings:
+    - "lordfi1Agrou"
+  location: assets/twitch/lordfi1Agrou.png
+
+- name: lordfi1Feu
+  strings:
+    - "lordfi1Feu"
+  location: assets/twitch/lordfi1Feu.png
+
+- name: lordfi1Sandbox
+  strings:
+    - "lordfi1Sandbox"
+  location: assets/twitch/lordfi1Sandbox.png
+
+- name: lordfi1Triste
+  strings:
+    - "lordfi1Triste"
+  location: assets/twitch/lordfi1Triste.png
