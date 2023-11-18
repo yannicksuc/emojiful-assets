@@ -10,6 +10,10 @@
   name: lordfi1Cheh
   strings:
   - lordfi1Cheh
+- location: assets/twitch/lordfi1Feu.gif
+  name: lordfi1Feu
+  strings:
+  - lordfi1Feu
 - location: assets/twitch/lordfi1Gg.png
   name: lordfi1Gg
   strings:
@@ -38,11 +42,15 @@
   name: lordfi1Omg
   strings:
   - lordfi1Omg
-- location: assets/twitch/lordfi1Pan.png
+- location: assets/twitch/lordfi1Pan.gif
   name: lordfi1Pan
   strings:
   - lordfi1Pan
-- location: assets/twitch/lordfi1Pet.png
+- location: assets/twitch/lordfi1Party.gif
+  name: lordfi1Party
+  strings:
+  - lordfi1Party
+- location: assets/twitch/lordfi1Pet.gif
   name: lordfi1Pet
   strings:
   - lordfi1Pet
@@ -70,7 +78,7 @@
   name: lordfi1Triste
   strings:
   - lordfi1Triste
-- location: assets/twitch/lordfi1Wheee.png
+- location: assets/twitch/lordfi1Wheee.gif
   name: lordfi1Wheee
   strings:
   - lordfi1Wheee
@@ -82,7 +90,3 @@
   name: lordfi1Wtf
   strings:
   - lordfi1Wtf
-- location: assets/twitch/lordfi1Party.png
-  name: lordfi1Party
-  strings:
-  - lordfi1Party
