@@ -1,14 +1,11 @@
 import os
 import yaml
 
-import os
-import yaml
-
-def generate_yaml_data(directory, extension):
+def generate_yaml_data(directory, extensions):
     yaml_data = []
 
     for filename in os.listdir(directory):
-        if filename.endswith(extension):
+        if any(filename.endswith(ext) for ext in extensions):
             name = os.path.splitext(filename)[0]
             data = {
                 'name': name,
@@ -24,9 +21,9 @@ def write_yaml_file(data, output_file):
         yaml.dump(data, yaml_file, default_flow_style=False)
 
 current_directory = os.getcwd()
-file_extension = '.png'
+file_extensions = ['.png', '.gif']  # Add other extensions as needed
 
-yaml_data = generate_yaml_data(current_directory, file_extension)
+yaml_data = generate_yaml_data(current_directory, file_extensions)
 
 output_yaml_file = 'output.yml'  # Change the extension to .yml if needed
 
